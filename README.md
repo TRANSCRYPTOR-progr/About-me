@@ -1,6 +1,6 @@
 # 🛠️ **Transcryptor** | Security & OSINT Tools
 
-![Banner](https://radikal.cloud/i/photo-2025-03-09-18-26-59.S57lgo)
+![Banner](https://github.com/user-attachments/assets/30ce729a-f464-400b-896d-0b993104483f)
 
 **Разработчик специализированных инструментов для анализа данных и кибербезопасности**
 
